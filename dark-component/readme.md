@@ -2,4 +2,4 @@
 
 https://uidesigndaily.com/posts/sketch-dark-themed-components-theme-ui-day-1176
 
-![desgin](/image/day_1176.png "Text to show on mouseover")
+![desgin](./image/day_1176.png "desgin")
